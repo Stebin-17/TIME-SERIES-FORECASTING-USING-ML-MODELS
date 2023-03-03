@@ -1,4 +1,4 @@
-# VISITORS YO GEORGIA TIME-SERIES ANALYSIS AND ARIMA FORECAST
+# TIME SERIES ANALYSIS OF VISITORS TO GEORGIA 
 
 ## INTRODUCTION:
 Georgia country becomes one of the top travel destinations in recent years. Understanding
