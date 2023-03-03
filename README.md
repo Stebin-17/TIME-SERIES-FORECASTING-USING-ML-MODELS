@@ -46,5 +46,6 @@ measures.
 ## DATA SOURCE:
 
 A time-series approach is used in the monthly wise Visitors data from 2011 to 2020 Jan,
-from the official website of Georgian tourism department. -
+from the official website of Georgian tourism department.
+
 [https://knoema.com/atlas/Georgia/datasets]
